@@ -3,15 +3,15 @@
 layout: home
 
 hero:
-  name: "My Awesome Project"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  name: "我是无敌的！"
+  text: "马什么？"
+  tagline: 什么东？
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: 什么子
       link: /markdown-examples
     - theme: alt
-      text: API Examples
+      text: 什么东马
       link: /api-examples
 
 features:
